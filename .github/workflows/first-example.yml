@@ -11,4 +11,4 @@ jobs:
          - name: List Files
            run: ls
          - name: Read File
-           run: cat README.md     
+           run: cat /etc/passwd     
