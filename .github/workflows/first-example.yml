@@ -11,4 +11,4 @@ jobs:
          - name: List Files
            run: ls
          - name: Read File
-           run: cat /etc/passwd     
+           run: whoami   
